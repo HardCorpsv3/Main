@@ -76,16 +76,16 @@ Buildingstoloot_list = [
 ["Land_Mil_Barracks_i_EP1", 1],
 ["Land_MilOffices_V1_F", 1],
 ["C130J_wreck_EP1", 1],
-["Land_Offices_01_V1_F", 0]
-["Land_d_HouseV_1L1", 0]
-["Land_d_HouseV_1L2", 0]
-["Land_d_HouseV_1T", 0]
-["Land_d_HouseV_2l", 0]
-["Land_d_HouseV_2L", 0]
-["Land_d_HouseV_2T1", 0]
-["Land_d_HouseV_2T2", 0]
-["Land_d_HouseV_3l1", 0]
-["Land_d_HouseV_3l2", 0]
-["Land_d_HouseV_3l3", 0]
+["Land_Offices_01_V1_F", 0],
+["Land_d_HouseV_1L1", 0],
+["Land_d_HouseV_1L2", 0],
+["Land_d_HouseV_1T", 0],
+["Land_d_HouseV_2l", 0],
+["Land_d_HouseV_2L", 0],
+["Land_d_HouseV_2T1", 0],
+["Land_d_HouseV_2T2", 0],
+["Land_d_HouseV_3l1", 0],
+["Land_d_HouseV_3l2", 0],
+["Land_d_HouseV_3l3", 0],
 ["Land_d_HouseV_3l4", 0]
 ];

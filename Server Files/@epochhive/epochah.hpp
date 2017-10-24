@@ -1,5 +1,5 @@
 // Anti Hack
-antihack_Enabled = "true"; // built-in Anti-Hack
+antihack_Enabled = "false"; // built-in Anti-Hack
 antihack_maxTravelDistance = 30; // anti-teleport max travel distance
 antihack_TPcenterDistance = 30; // anti-teleport distance from start
 antihack_cfgPatchesCheck = "true"; // cfgPatches (AddOn Check)
