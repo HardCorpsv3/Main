@@ -1,0 +1,8 @@
+1 "call" !="[a-z]{5,40}"
+1 "compile"
+1 "spawn"
+1 "exec" !="[a-z]{5,40}"
+1 "loadFile"
+1 "preprocessFile"
+1 "tostring"
+1 "\.sqf"
