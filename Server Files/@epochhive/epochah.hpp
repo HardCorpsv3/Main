@@ -1,5 +1,5 @@
 // Anti Hack
-antihack_Enabled = "false"; // built-in Anti-Hack
+antihack_Enabled = "true"; // built-in Anti-Hack
 antihack_maxTravelDistance = 30; // anti-teleport max travel distance
 antihack_TPcenterDistance = 30; // anti-teleport distance from start
 antihack_cfgPatchesCheck = "true"; // cfgPatches (AddOn Check)
@@ -25,7 +25,8 @@ antihack_checkFilesNew[] = { //script check, leave it blank to disable it
 antihack_addActionCheck = "true"; // false to disable addAction checks
 antihack_antiTeleportCheck = "true"; // false to disable antiTeleport checks
 adminMenu_Owner[] = {
-	{"76561198036388020","Lewis"}
+	{"76561198036388020","Lewis"},
+	{"76561198079109911","Trap"}
 };
 adminMenu_OwnerSetting[] = {
 	"ESP-PLAYER",
@@ -54,7 +55,7 @@ adminMenu_OwnerSetting[] = {
 	"SPAWN-MENU",
 	"FREE-CAM",
 	"INVISIBLE",
-	// "SPAWNLOOT",
+	"SPAWNLOOT",
 	"GODMODE",
 	"HEAL",
 	"VEHICLEREPAIR"
